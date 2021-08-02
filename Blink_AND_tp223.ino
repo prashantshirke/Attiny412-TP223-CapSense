@@ -1,5 +1,4 @@
 /* Attiny412 programming using Arduino
- * http://www.technoblogy.com/show?2OCH
  */
  
 int Touch_Sensor = 2;    //PA1 (Pin 4)
